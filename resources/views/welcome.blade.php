@@ -23,6 +23,7 @@
         <div class="card mt-5">
             <form method="POST" action="/search">
                 @csrf
+                <h2>Search for Ciguatera Concentrations</h2>
                 <div class="input-group">
                     <div class="form-outline">
                       <input type="search" id="location" name="location" class="form-control"  placeholder="Coordinates, Bay, Reef, Country"/>
@@ -54,7 +55,7 @@
           </div>
         @endif
         <div class="card mt-5">
-            <h2>Report info</h2>
+            <h2>Report Ciguatera Concentration</h2>
             <form method="POST" action="/report">
                 @csrf
                 <div class="input-group">
