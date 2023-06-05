@@ -86,11 +86,10 @@
         <div class="footer">
           <h4>Please support us to help keep the site running</h4>
           <a href="https://www.patreon.com/bePatron?u=27664421" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-          <br />
+          
             <a class="btn btn-primary" href="https://paypal.me/jenniferwilliams162">Paypal Link</a>
-          <br />
+          
           <a class="btn btn-primary" href="https://cash.app/$orion5williams">Cash App</a>
-          <br />
           <br />
           <h5> Questions or Concerns?</h5>
           <a  class="btn btn-primary"  mailto="orion5williams@gmail.com">Contact Me</a>
